@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there 🧠💻
 
+Welcome to my GitHub! I'm Nico, a machine learning researcher specializing in medical signals (EEG), image analysis (brain MRI), and tabular data. Based in Germany with a PhD in Computer Science, I leverage Python for innovative solutions.
 <!--
 **N-Nieto/N-Nieto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
