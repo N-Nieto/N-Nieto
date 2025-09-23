@@ -1,4 +1,5 @@
-## Hi there 🧠💻
+
+## Hi there 🧠💻 [![Google Scholar](https://imgs.search.brave.com/aaCqBz-wVvVlRfpOEQ-kexQLGrrvwk06OWqGGXnQiCo/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMWI4M2Q4ODEw/YjAyOTYzNzA1ZjVl/Y2E1OWU3OGViNGZh/YWYxZWVhYTQ5MzE0/YTA3Y2FhNDRjZjM3/YmE4MTQ4Mi9zY2hv/bGFyLmdvb2dsZS5j/b20v)](https://scholar.google.com/citations?user=0N32qusAAAAJ&hl=de)
 
 Welcome to my GitHub! I'm Nico, a machine learning researcher specializing in medical signals (EEG), image analysis (brain MRI), and tabular data. Based in Germany with a PhD in Computer Science, I leverage Python for innovative solutions.
 <!--
@@ -15,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![ORCID](https://orcid.org/assets/vectors/orcid.logo.icon.svg)](https://orcid.org/0000-0002-0481-8104)
+
