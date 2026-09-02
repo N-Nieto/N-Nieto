@@ -17,22 +17,6 @@
   Building tools that outlive the paper.
 </p>
 
-<p align="center">
-  <a href="https://github.com/N-Nieto?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20Repos-20+-181717?style=flat-square&logo=github" alt="Public Repos">
-  </a>
-  <a href="https://github.com/N-Nieto/Inner_Speech_Dataset/stargazers">
-    <img src="https://img.shields.io/github/stars/N-Nieto/Inner_Speech_Dataset?style=flat-square&logo=github&label=Inner%20Speech%20Stars&color=ff6b6b" alt="Inner Speech Stars">
-  </a>
-    <a href="https://github.com/N-Nieto/UniHarmony">
-    <img src="https://img.shields.io/github/stars/N-Nieto/UniHarmony?style=flat-square&logo=github&label=UniHarmony%20Stars&color=6366f1" alt="UniHarmony Stars">
-  </a>
-
-  <a href="https://neuromatch.io/deep-learning/">
-  <img src="https://img.shields.io/badge/Neuromatch%20Academy-Deep%20Learning%20Instructor-6366F1?style=flat-square&logo=neuromatch&logoColor=white" alt="Neuromatch Academy Deep Learning Instructor">
-</a>
-</p>
-
 ---
 
 ## I turn messy biomedical data into reproducible insights across sites.
@@ -46,47 +30,26 @@
 | **Connectivity** | Resting-state fMRI
 ---
 
-## [Inner Speech Dataset](https://github.com/N-Nieto/Inner_Speech_Dataset)
-
-An open-access EEG dataset for inner speech recognition — one of the largest of its kind.
+## [Inner Speech Dataset](https://github.com/N-Nieto/Inner_Speech_Dataset)_ An open-access EEG dataset for inner speech recognition.
 
 - **10 subjects** · **3 sessions** · **128-channel EEG** · **5,640 trials** · **20.3 GB**
-- **Published in** *Scientific Data* (Nature, 2022)
--  Hosted on [OpenNeuro](https://openneuro.org/datasets/ds003626)
-- Includes preprocessing pipelines, download scripts, and a Google Colab tutorial
-
+- **Published in** *Scientific Data* (Nature, 2022) and hosted on [OpenNeuro](https://openneuro.org/datasets/ds003626)
+- Includes preprocessing pipelines, download scripts, and a users tutorial
 
 ---
 
-## Data Harmonization
+## Data Harmonization: Making models generalize across scanners, sites, and hospitals.
 
-Making models generalize across scanners, sites, and hospitals.
-
-### [UniHarmony](https://github.com/N-Nieto/UniHarmony)
+### [UniHarmony](https://github.com/N-Nieto/UniHarmony): A unified Python API for neuroimaging harmonization.
 
 ```bash
 pip install uniharmony
 ```
 
-- ComBat, CovBat, and custom methods for MRI and tabular data
-- Binder-ready example notebooks
-
-A unified Python API for neuroimaging harmonization.
+- Data harmonization methods, multisite utils, and user examples.
 
 ### [HarmonizationZoo](https://github.com/N-Nieto/HarmonizationZoo) · [Website](https://n-nieto.github.io/HarmonizationZoo/)
 An interactive site that aims to provide an easy way to see, seek, and compare harmonization methods.
-
-### [PrettYharmonize](https://github.com/juaml/PrettYharmonize)
-Target-free harmonization for when you don't have labels at test time, for example in machine learning scenarios. Predicts harmonization targets without ground truth during inference.
-
-### [Harmonization via Interpolation](https://link.springer.com/article/10.1007/s44248-026-00100-7)
-- **Inter-Site SMOTE**: generates synthetic training data by interpolating age- and gender-matched participants across sites
-- Evaluated on **N = 2,031** subjects across four datasets
-
-### [Federated Learning Harmonization](https://ieeexplore.ieee.org/abstract/document/11391943/)
-- How to integrate data harmonization in Federated learning setups?
-- How to harmonize data that we can not access?
----
 
 ## Teaching & Education
 
@@ -95,19 +58,11 @@ Theory, challenges, and hands-on Jupyter tutorials for combining data across sca
 
 > This educational course was highlighted in [Andy's Brain Tube OHBM Recap](https://www.youtube.com/watch?v=zhyFb0tU4aY).
 
+### Teaching Assistant at [Neuromatch Academy Deep Learning course](https://neuromatch.io/deep-learning/).
+
 ### [Basics of Applied Machine Learning](https://github.com/juaml/Basics_of_Applied_Machine_Learning)
 Introductory ML course for neuroimaging and biomedical data.
 
 ### [Basics of Unix Terminal and Programming](https://github.com/juaml/Basics_of_Unix_Terminal_and_Programming)
 Unix/Linux fundamentals for researchers working with HPC clusters.
 
-### Neuromatch Academy — Deep Learning Instructor
-
-
-Teaching assistant and instructor for the [Neuromatch Academy Deep Learning course](https://neuromatch.io/deep-learning/), a global, intensive summer school on computational neuroscience and deep learning.
-
-### ASSC 2025 Tutorial
-*Caveats and Guidelines to Safely Apply Machine Learning in Consciousness Research* — Common pitfalls, leakage, overfitting, and interpretability.
-
-### OHBM Online Satellite Meeting 2025
-*Enhancing accessibility and sustainability* in neuroimaging tools.
