@@ -53,7 +53,7 @@ An interactive site that aims to provide an easy way to see, seek, and compare h
 
 ## Teaching & Education
 
-### [OHBM 2026: Data harmonization for neuroscientific research: Theory, challenges, and applications.](https://github.com/N-Nieto/OHBM-2026-Harmonization-Course)
+### [OHBM 2026: Data harmonization for neuroscientific research: Theory, challenges, and applications.](https://github.com/N-Nieto/OHBM2026_Educational_course_harmonization)
 Theory, challenges, and hands-on Jupyter tutorials for combining data across scanners and sites.
 
 > This educational course was highlighted in [Andy's Brain Tube OHBM Recap](https://www.youtube.com/watch?v=zhyFb0tU4aY).
