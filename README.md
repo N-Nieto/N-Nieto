@@ -21,20 +21,7 @@
 
 ## I turn messy biomedical data into reproducible insights across sites.
 
-| Modality | Focus
-|----------|-------
-| **EEG** | EEG-based BCI, inner speech decoding
-| **Images** | Brain MRI harmonization, brain age prediction 
-| **Tabular** | Multi-site harmonization, clinical outcomes
-| **Voice** | Vocal biomarkers, speech-induced suppression
-| **Connectivity** | Resting-state fMRI
----
-
-## [Inner Speech Dataset](https://github.com/N-Nieto/Inner_Speech_Dataset)_ An open-access EEG dataset for inner speech recognition.
-
-- **10 subjects** · **3 sessions** · **128-channel EEG** · **5,640 trials** · **20.3 GB**
-- **Published in** *Scientific Data* (Nature, 2022) and hosted on [OpenNeuro](https://openneuro.org/datasets/ds003626)
-- Includes preprocessing pipelines, download scripts, and a users tutorial
+## [Inner Speech Dataset](https://github.com/N-Nieto/Inner_Speech_Dataset): An open-access EEG dataset for inner speech recognition.
 
 ---
 
@@ -46,10 +33,7 @@
 pip install uniharmony
 ```
 
-- Data harmonization methods, multisite utils, and user examples.
-
-### [HarmonizationZoo](https://github.com/N-Nieto/HarmonizationZoo) · [Website](https://n-nieto.github.io/HarmonizationZoo/)
-An interactive site that aims to provide an easy way to see, seek, and compare harmonization methods.
+### [HarmonizationZoo](https://github.com/N-Nieto/HarmonizationZoo): A field guide to data harmonization methods and resources 
 
 ## Teaching & Education
 
@@ -58,11 +42,5 @@ Theory, challenges, and hands-on Jupyter tutorials for combining data across sca
 
 > This educational course was highlighted in [Andy's Brain Tube OHBM Recap](https://www.youtube.com/watch?v=zhyFb0tU4aY).
 
-### Teaching Assistant at [Neuromatch Academy Deep Learning course](https://neuromatch.io/deep-learning/).
-
-### [Basics of Applied Machine Learning](https://github.com/juaml/Basics_of_Applied_Machine_Learning)
-Introductory ML course for neuroimaging and biomedical data.
-
-### [Basics of Unix Terminal and Programming](https://github.com/juaml/Basics_of_Unix_Terminal_and_Programming)
-Unix/Linux fundamentals for researchers working with HPC clusters.
+### Teaching Assistant at [Neuromatch Academy Deep Learning course](https://neuromatch.io/deep-learning/), [Basics of Applied Machine Learning](https://github.com/juaml/Basics_of_Applied_Machine_Learning) and [Basics of Unix Terminal and Programming](https://github.com/juaml/Basics_of_Unix_Terminal_and_Programming)
 
