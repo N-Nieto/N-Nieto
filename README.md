@@ -42,5 +42,9 @@ Theory, challenges, and hands-on Jupyter tutorials for combining data across sca
 
 > This educational course was highlighted in [Andy's Brain Tube OHBM Recap](https://www.youtube.com/watch?v=zhyFb0tU4aY).
 
-### Teaching Assistant at [Neuromatch Academy Deep Learning course](https://neuromatch.io/deep-learning/), [Basics of Applied Machine Learning](https://github.com/juaml/Basics_of_Applied_Machine_Learning) and [Basics of Unix Terminal and Programming](https://github.com/juaml/Basics_of_Unix_Terminal_and_Programming)
+### Teaching Assistant at:
+* [Neuromatch Academy Deep Learning course](https://neuromatch.io/deep-learning/)
+* [Basics of Applied Machine Learning](https://github.com/juaml/Basics_of_Applied_Machine_Learning)
+* [Basics of Unix Terminal and Programming](https://github.com/juaml/Basics_of_Unix_Terminal_and_Programming)
+* [Master in Translational Neuroscience: Module 3c Cognitive Neuroscience: Methods](https://www.translationalneuroscience.hhu.de/en/study-and-teaching/master-modules)
 
